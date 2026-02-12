@@ -1,0 +1,11 @@
+{
+  "cities": [
+    {
+      "name": "Bogota",
+      "region_name": "Bogota, Distrito Capital, Colombia",
+      "region_id": "-592318",
+      "nights": 2,
+      "adults": 2
+    }
+  ]
+}
